@@ -1,4 +1,4 @@
-# Water-Level-Indicator
+# water-level-indicator
 A LED indicator for water level using Arduino UNO and
 HC-SR04
 
